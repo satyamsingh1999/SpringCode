@@ -1,3 +1,0 @@
-Hello this is spring releted project which will help you to read and write spring ..
-This time i am learning creating file .
-also learning deleting same file which one we are creating ..
